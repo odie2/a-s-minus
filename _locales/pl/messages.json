@@ -1,0 +1,269 @@
+{
+   "arrow": {
+      "description": "Arrow title",
+      "message": "Strzałka"
+   },
+   "blur": {
+      "description": "Blur title",
+      "message": "Rozmycie"
+   },
+   "cancelBtn": {
+      "description": "Cancel button",
+      "message": "Anuluj"
+   },
+   "capture_hint": {
+      "description": "Capturing hint",
+      "message": "$CODE1$Przechwytywanie",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "cemail": {
+      "message": "Skontaktuj się z screenshot@diigo.com, aby zaproponować sugestie."
+   },
+   "color": {
+      "description": "Color Picker title",
+      "message": "Próbnik kolorów"
+   },
+   "crop": {
+      "description": "Crop title",
+      "message": "Przytnij kawałek zrzutu ekranu"
+   },
+   "cropTip": {
+      "description": "Crop Tooltip",
+      "message": "Naciśnij i przeciągnij, aby zaznaczyć"
+   },
+   "desktop": {
+      "description": "Popup menu",
+      "message": "$CODE1$Zrzut pulpitu",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "diigo_web_highlighter": {
+      "message": "Web Highlighter - inne rozszerzenie autorstwa Diigo"
+   },
+   "disableEntireTitle": {
+      "description": "Disable Entire Title",
+      "message": "Nie działa na stronach przeglądarki oraz na stronach z rozszerzeniami"
+   },
+   "doneBtn": {
+      "message": "Przytnij"
+   },
+   "editTitle": {
+      "description": "Annotate page title",
+      "message": "Oznacz swój zrzut ekranu"
+   },
+   "ellipse": {
+      "description": "Ellipse title",
+      "message": "Elipsa"
+   },
+   "entire": {
+      "description": "Popup menu",
+      "message": "$CODE1$Zrzut całej strony",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "entire_title": {
+      "message": ""
+   },
+   "extDesc": {
+      "description": "Extension description.",
+      "message": " Przechwyć całą stronę lub jej fragment, oznacz zrzut ekranu, rozmyj prywatne informacje i udostępnij jednym kliknięciem."
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "Niesamowity Zrzut Ekranu: Przechwyć i oznacz"
+   },
+   "freeline": {
+      "description": "Free Line title",
+      "message": "Swobodna linia"
+   },
+   "image_loader": {
+      "description": "Preparing loader",
+      "message": "Przygotowywanie obrazka"
+   },
+   "line": {
+      "description": "Line title",
+      "message": "Linia"
+   },
+   "rating": {
+      "message": "Oceń rozszerzenie na 5 gwiazdek, aby pokazać swoje wsparcie!"
+   },
+   "reEdit": {
+      "description": "Re-edit link takes user back to re-edit the screenshot",
+      "message": "Powróć do edycji zrzutu ekranu"
+   },
+   "rectangle": {
+      "description": "Rectangle title",
+      "message": "Prostokąt"
+   },
+   "saveBtn": {
+      "description": "Save button",
+      "message": "Gotowe"
+   },
+   "save_button": {
+      "message": "Zapisz"
+   },
+   "save_congrats": {
+      "description": "Congratulations",
+      "message": "Proszę bardzo! Oto Twój zrzut ekranu."
+   },
+   "save_howto": {
+      "description": "How to header",
+      "message": "Jak z tego korzystać?"
+   },
+   "save_local": {
+      "message": "Opcja 1: Zapisz obrazek jako plik"
+   },
+   "savedShareDesc": {
+      "description": "Option 3 details description",
+      "message": "$CODE1$Prześlij$CODE2$Przesyłanie$CODE3$Anuluj$CODE4$Nie udało się przesłać na awesomescreenshot.com. Możesz przyciąć obrazek do mniejszego rozmiaru, a następnie $CODE5$spróbować ponownie$CODE6$. Wyślij e-mail (po angielsku) do $CODE7$screenshot@diigo.com$CODE8$, jeżeli nadal doświadczasz problemów. $CODE8_5$Twitter$CODE9$Facebook$CODE10$Weibo$CODE11$Gmail$CODE12$Yahoo mail$CODE13$Hotmail$CODE14$Odnośnik do obrazka (udostępnij poprzez MSN, GTalk itp.)$CODE15$Odnośnik skopiowany!$CODE16$",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cp>\u003Ca id='upload' href='javascript:void(0)'>\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code10": {
+            "content": "\u003C/a>\u003Ca id='weibo' href='http://service.weibo.com/share/share.php?' target='_blank'>\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code11": {
+            "content": "\u003C/a>\u003C/div>\u003Cdiv id='email-link'>\u003Ca id='gmail' href='https://mail.google.com/mail/?view=cm&tf=0&fs=1&body=' target='_blank'>\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code12": {
+            "content": "\u003C/a>\u003Ca id='yahoo' href='http://compose.mail.yahoo.com/' target='_blank'>\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code13": {
+            "content": "\u003C/a>\u003Ca id='hotmail' href='http://www.hotmail.msn.com/secure/start?action=compose&body=' target='_blank'>\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code14": {
+            "content": "\u003C/a>\u003C/div>\u003Cdiv id='share-link'>\u003Cp>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code15": {
+            "content": "\u003C/p>\u003Cinput type='text' />\u003Cspan>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code16": {
+            "content": "\u003C/span>\u003C/div>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code2": {
+            "content": "\u003C/a> to \u003Ca href='http://awesomescreenshot.com' target='_blank' class='lightLink'>awesomescreenshot.com\u003C/a>\u003C/p>\u003Cdiv id='loader'>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code3": {
+            "content": "\u003Ca id='cancel_upload' href='javascript:void(0)'>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code4": {
+            "content": "\u003C/a>\u003C/div>\u003Cdiv id='error'>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code5": {
+            "content": "\u003Ca href='javascript:void(0)' id='retry'>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code6": {
+            "content": "\u003C/a>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code7": {
+            "content": "\u003Ca id='upload_error_contact' href='mailto:screenshot@diigo.com?subject=Awesome Screenshot (Chrome) Upload Error'>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code8": {
+            "content": "\u003C/a>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code8_5": {
+            "content": "\u003C/div>\u003Cdiv id='share-button'>\u003Ca id='twitter' href='http://twitter.com/home?status=' target='_blank'>\u003Cspan>\u003C/span>"
+         },
+         "code9": {
+            "content": "\u003C/a>\u003Ca id='facebook' href='http://www.facebook.com/sharer.php?u=' target='_blank'>\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "scriptOff": {
+      "description": "Capturing hint",
+      "message": "Skrypt nie został załadowany, $CODE1$reload$CODE2$",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Ca href='javascript:void(0)'>",
+            "example": "\u003Ca>\u003C/a>"
+         },
+         "code2": {
+            "content": "\u003C/a>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "selected": {
+      "message": "$CODE1$Przechwyć zaznaczony obszar",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cspan>\u003C/span>"
+         }
+      }
+   },
+   "share": {
+      "message": "Opcja 2: Prześlij i uzyskaj odnośnik do udostępniania"
+   },
+   "text": {
+      "description": "Text title",
+      "message": "Tekst"
+   },
+   "tip1": {
+      "description": "Screen captured, ready to",
+      "message": "Ekran przechwycony, gotowy do"
+   },
+   "tip2": {
+      "description": "and Annotate ",
+      "message": "i oznacz "
+   },
+   "tweet": {
+      "message": "Prosimy o puszczenie Tweet'a o Niesamowitym Zrzucie Ekranu"
+   },
+   "undo": {
+      "description": "Undo title",
+      "message": "Cofnij"
+   },
+   "upload": {
+      "description": "Popup menu",
+      "message": "$CODE1$Wybierz lokalny obrazek",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "visible": {
+      "description": "Popup menu",
+      "message": "$CODE1$Przechwyć widoczną część strony",
+      "placeholders": {
+         "code1": {
+            "content": "\u003Cspan>\u003C/span>",
+            "example": "\u003Ca>\u003C/a>"
+         }
+      }
+   },
+   "visible_title": {
+      "message": ""
+   }
+}
